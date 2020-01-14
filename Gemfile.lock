@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bugsnag (6.12.2)
+      concurrent-ruby (~> 1.0)
+    concurrent-ruby (1.1.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bugsnag (~> 6.12)
+
+BUNDLED WITH
+   1.17.1
