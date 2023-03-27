@@ -12,7 +12,7 @@ gem "sprockets-helpers", "~> 0.2.1"
 gem "sprockets-sass",    "~> 0.5.0"
 gem "sass",              "~> 3.1.10"
 gem "coffee-script",     "~> 2.2.0"
-gem "uglifier",          "~> 1.0.3"
+gem "uglifier",          "~> 2.7.2"
 
 gem "RedCloth", "~> 4.3"
 
